@@ -13,6 +13,7 @@ http://http://imgur.com/gallery/9NHp1Py
 
 Notes:
 Getting familiarized with Github was a challenge. Specially because the Git hub client did not connect with the GitHub website. 
-GIF walkthrough of all required and optional stories 
+
+Video walkthrough 
 https://www.youtube.com/watch?v=O0UtQEKNrGI
 
