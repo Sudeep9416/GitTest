@@ -6,6 +6,9 @@ Completed user stories:
 	•	 Optional: The tip amount could be split into multiple values
 	
 Gif created with Licecap
+<img src="http://http://imgur.com/gallery/9NHp1Py >
+
+
 Notes:
 Getting familiarized with Github was a challenge. Specially because the Git hub client did not connect with the GitHub website. 
 GIF walkthrough of all required and optional stories 
