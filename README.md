@@ -1,4 +1,5 @@
-# Tip calculator application     
+# Tip calculator application    
+
 This is an iPhone app demo application built with Xcode and Swift for calculating tip amounts. Time spent: 9 hours spent in total 5 hours for the app and 4 hours to learn Git hub using Terminal app.
 Completed user stories:
 	•	 Required: User can calculate tips for any bill amount
@@ -6,7 +7,8 @@ Completed user stories:
 	•	 Optional: The tip amount could be split into multiple values
 	
 Gif created with Licecap
-<img src="http://http://imgur.com/gallery/9NHp1Py >
+
+http://http://imgur.com/gallery/9NHp1Py 
 
 
 Notes:
