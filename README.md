@@ -8,7 +8,9 @@ Completed user stories:
 	
 Gif created with Licecap
 
-http://http://imgur.com/gallery/9NHp1Py 
+http://imgur.com/gallery/9NHp1Py 
+
+<img src="http://i.imgur.com/9NHp1Py.gif" alt="" width="300">
 
 
 Notes:
