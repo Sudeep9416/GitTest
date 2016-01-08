@@ -8,7 +8,7 @@ This is an iOS demo application built with Xcode and Swift for calculating tip a
 <br>	•	 Required: The tips could be calculated for 3 different percentages
 <br>	•	 Optional: The tip amount could be split into multiple values
 	
-<br><img src="http://i.imgur.com/9NHp1Py.gif" alt="" width="300">&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://i.imgur.com/hdCn5iQ.gif" alt="" width="300">
+<br><img src="http://i.imgur.com/9NHp1Py.gif" alt="" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://i.imgur.com/hdCn5iQ.gif" alt="" width="300">
 <br><b>Gif created with <a href="http://www.cockos.com/licecap/">Licecap</a></b>
 <p>
 <br>Notes:
