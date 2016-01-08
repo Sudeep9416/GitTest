@@ -9,8 +9,8 @@ This is an iOS demo application built with Xcode and Swift for calculating tip a
 <br>	•	 Optional: The tip amount could be split into multiple values
 
 <p>
-<b>Version 1</b>	
-<br><img src="http://i.imgur.com/9NHp1Py.gif" alt="" width="300">
+<b>Version 1</b>	<br>	
+<img src="http://i.imgur.com/9NHp1Py.gif" alt="" width="300">
 <p>
 <b>version 2</b>	<br>
 <img src="http://i.imgur.com/hdCn5iQ.gif" alt="" width="300">
