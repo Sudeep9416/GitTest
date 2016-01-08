@@ -11,7 +11,7 @@ This is an iOS demo application built with Xcode and Swift for calculating tip a
 <p>
 <b>Version 1</b>	<br>	
 <img src="http://i.imgur.com/9NHp1Py.gif" alt="" width="300">
-<p>
+<p><p>
 <b>version 2</b>	<br>
 <img src="http://i.imgur.com/hdCn5iQ.gif" alt="" width="300">
 <br><b>Gif created with <a href="http://www.cockos.com/licecap/">Licecap</a></b>
